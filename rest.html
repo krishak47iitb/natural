@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rest a Second</title>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Get the rest counter from localStorage or initialize it
+            let restCounter = localStorage.getItem('restCounter') || 0;
+            restCounter = parseInt(restCounter, 10) + 1;
+
+            // Update the counter in localStorage
+            localStorage.setItem('restCounter', restCounter);
+
+            // Check if the counter reaches 4
+            if (restCounter >= 4) {
+                window.location.href = 'done.html';
+            } else {
+                document.getElementById('rest-counter').textContent = restCounter;
+            }
+        });
+
+        function goBack() {
+            window.location.href = 'index.html';
+        }
+    </script>
+</head>
+<body>
+    <h1>Rest a second</h1>
+    <p>You have reached 50 votes. Take a break!</p>
+    <p>Rest Counter: <span id="rest-counter">0</span></p>
+    <button onclick="goBack()">Go Back to Voting</button>
+</body>
+</html>

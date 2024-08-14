@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assessment of Design Quality</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        .image-container {
+            display: flex;
+            justify-content: center;
+        }
+        .stop-list {
+            text-align: left;
+        }
+
+        .image-box {
+            margin: 0 10px;
+        }
+        img {
+            max-width: 300px;
+            height: auto;
+            cursor: pointer;
+        }
+        .sorted-images {
+            margin-top: 20px;
+            text-align: left;
+        }
+        .download-button {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Note: You can change the title of the website by editing the content between <h1> tag -->
+    <h1>Assessment of Design Quality</h1>
+
+    <!-- Note: This section contains the introductory text -->
+    <p>Please edit this part for introductory of your assessment task.</p>
+
+    <div class="image-container" id="imageContainer"><!--  -->
+        <!-- Images for comparison will be loaded here by JavaScript -->
+    </div>
+    
+     <!-- Display information -->
+    <div id="stop-list">
+        <!-- Data will be inserted here by JavaScript -->
+    </div>
+
+    <p>Vote Counter: <span id="vote-counter">0</span></p>
+
+    <div class="download-button">
+        <button onclick="downloadCSV()">Download Result</button>
+    </div>
+
+    <script>
+        let image1Id, image2Id;
+        let voteCounter = 0;
+        function loadImages() {
+            fetch('get_images.php')
+                .then(response => response.json())
+                .then(data => {
+                    const container = document.getElementById('imageContainer');
+                    const stopList = document.getElementById('stop-list');
+                    container.innerHTML = '';
+                    stopList.innerHTML = '';
+                    count = 0;
+
+                    data.forEach((image, index) => {
+                        const imgBox = document.createElement('div');
+                        imgBox.className = 'image-box';
+                        imgBox.innerHTML = `<img src="${image.url}" data-id="${image.id}" onclick="vote(${index})">`;
+                        container.appendChild(imgBox);
+                        
+                        const listItem = document.createElement('li');
+                        listItem.innerHTML = `Name: ${image.stop_name}, Region: ${image.region}, Business: ${image.Business}<br>`;
+                        stopList.appendChild(listItem);
+                        
+
+                        if (index === 0) {
+                            image1Id = image.id;
+                        } else {
+                            image2Id = image.id;
+                        }
+                    });
+                });
+        }
+
+        function vote(index) {
+            const winnerId = index === 0 ? image1Id : image2Id;
+            const loserId = index === 0 ? image2Id : image1Id;
+            
+            const formData = new FormData();
+            formData.append('image1_id', image1Id);
+            formData.append('image2_id', image2Id);
+            formData.append('winner_id', winnerId);
+
+            fetch('vote.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.text())
+            .then(() => {
+                loadImages();
+
+
+                voteCounter++;
+                document.getElementById('vote-counter').textContent = voteCounter;
+
+                if (voteCounter >= 50) {
+                    window.location.href = 'rest.html'; // Redirect to a new page
+                } else {
+                    loadImages(); // Reload images after voting
+                }
+
+
+
+            });
+        }
+
+        function downloadCSV() {
+            window.location.href = 'download_csv.php';
+        }
+
+        document.addEventListener('DOMContentLoaded', loadImages);
+    </script>
+</body>
+</html>

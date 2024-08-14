@@ -1,0 +1,424 @@
+id,stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id,stop_url,Angle,region,Business
+750083,750083,750083,Michaelangelo Dr at Jasmine Street,-16.904246,145.695292,2,https://translink.com.au/stop/750083/gtfs/,36.54635754,Cairns,0
+750494,750494,750494,Poolwood Rd near Cottesloe St hail 'n' ride,-16.79035,145.681945,4,https://translink.com.au/stop/750494/gtfs/,230.7128865,Cairns,3
+890415,890415,890415,Boundary St at Bell Street,-19.268895,146.826724,1,https://translink.com.au/stop/890415/gtfs/,73.46118316,Townsville,0
+890656,890656,890656,Main St at Stockland North Shore,-19.252631,146.699176,3,https://translink.com.au/stop/890656/gtfs/,297.1719529,Townsville,5
+890062,890062,890062,Harold St at James Street,-19.26171,146.792278,1,https://translink.com.au/stop/890062/gtfs/,134.7444021,Townsville,0
+890355,890355,890355,Palmerston St at Ronan Street,-19.286432,146.764197,2,https://translink.com.au/stop/890355/gtfs/,25.78977462,Townsville,2
+890122,890122,890122,Douglas St at Gorden Street,-19.264615,146.781771,1,https://translink.com.au/stop/890122/gtfs/,186.4800336,Townsville,6
+890647,890647,890647,Mount Low Pwy at Peggy Banfield Park,-19.201872,146.673578,4,https://translink.com.au/stop/890647/gtfs/,16.81445855,Townsville,3
+890588,890588,890588,Ingham Rd at Coconut Glen Van Village,-19.26158,146.714319,3,https://translink.com.au/stop/890588/gtfs/,68.51969479,Townsville,1
+890637,890637,890637,Golf Links Dr at Sonata Place,-19.306085,146.717179,3,https://translink.com.au/stop/890637/gtfs/,55.70415139,Townsville,1
+890468,890468,890468,Gollogy Lane at Pinnacle Drive,-19.340331,146.725739,3,https://translink.com.au/stop/890468/gtfs/,96.01767448,Townsville,3
+890378,890378,890378,McAlister Street at ODonnell Street,-19.298081,146.820223,1,https://translink.com.au/stop/890378/gtfs/,343.8392043,Townsville,2
+890116,890116,890116,Peel St at Lancaster Street,-19.258807,146.777782,1,https://translink.com.au/stop/890116/gtfs/,15.78061508,Townsville,1
+890043,890043,890043,Warburton St at Stuart Street,-19.247392,146.805971,1,https://translink.com.au/stop/890043/gtfs/,118.7550307,Townsville,2
+890110,890110,890110,Meenan St at Lonerganne Street,-19.262276,146.774877,1,https://translink.com.au/stop/890110/gtfs/,6.483572726,Townsville,3
+890044,890044,890044,Warburton St at Burke Street,-19.249856,146.810021,1,https://translink.com.au/stop/890044/gtfs/,300.8919829,Townsville,20
+750379,750379,750379,Jensen Street at Oregon Street,-16.912848,145.734925,1,https://translink.com.au/stop/750379/gtfs/,105.2826067,Cairns,3
+890458,890458,890458,Gouldian Ave at Lorikeet Street,-19.332151,146.724686,3,https://translink.com.au/stop/890458/gtfs/,274.9411354,Townsville,0
+890479,890479,890479,Riverway Dr near Dunlop St hail 'n' ride,-19.393504,146.729404,4,https://translink.com.au/stop/890479/gtfs/,6.25762104,Townsville,0
+890913,890913,890913,Mount Low Pwy at Bushland Beach Plaza,-19.19974,146.674231,4,https://translink.com.au/stop/890913/gtfs/,192.4184555,Townsville,3
+750086,750086,750086,Redlynch Intake Rd at Short Street,-16.88918,145.696284,2,https://translink.com.au/stop/750086/gtfs/,23.66789797,Cairns,1
+890276,890276,890276,Fulham Rd at Armit Street,-19.288232,146.777288,2,https://translink.com.au/stop/890276/gtfs/,95.0748282,Townsville,2
+890610,890610,890610,Ross River Rd at Forest Avenue,-19.313077,146.74283,2,https://translink.com.au/stop/890610/gtfs/,83.89241247,Townsville,3
+750311,750311,750311,Farmer St at Gattenby Street,-17.029126,145.747344,3,https://translink.com.au/stop/750311/gtfs/,323.8810256,Cairns,0
+890491,890491,890491,Riverway Dr at Jennifer Street,-19.386046,146.730121,4,https://translink.com.au/stop/890491/gtfs/,185.4079473,Townsville,3
+890658,890658,890658,North Shore Boulevard at Main Street,-19.256352,146.702436,3,https://translink.com.au/stop/890658/gtfs/,22.50131514,Townsville,6
+750303,750303,750303,Mt Peter Rd at Prior St,-17.024031,145.739617,3,https://translink.com.au/stop/750303/gtfs/,217.2984337,Cairns,1
+890630,890630,890630,Charters Towers Rd at Soule Street,-19.283457,146.797614,1,https://translink.com.au/stop/890630/gtfs/,14.45628732,Townsville,7
+890104,890104,890104,Fulham Rd at Swanson Street,-19.288468,146.770626,2,https://translink.com.au/stop/890104/gtfs/,255.3244779,Townsville,0
+750481,750481,750481,Spence St at Grafton Street,-16.924912,145.775926,1,https://translink.com.au/stop/750481/gtfs/,230.7341551,Cairns,20
+890230,890230,890230,Fulham Rd at Pimlico High School,-19.2891,146.784044,1,https://translink.com.au/stop/890230/gtfs/,274.886608,Townsville,1
+890180,890180,890180,Riverside Bvd at Riverside Shopping Centre,-19.316979,146.758335,2,https://translink.com.au/stop/890180/gtfs/,127.389522,Townsville,3
+890419,890419,890419,Allen St at Davidson Street,-19.262689,146.823403,1,https://translink.com.au/stop/890419/gtfs/,295.3746254,Townsville,20
+890470,890470,890470,Riverway Dr at Loam Island,-19.353308,146.732188,3,https://translink.com.au/stop/890470/gtfs/,175.8798319,Townsville,0
+890238,890238,890238,Charles St at Brampton Avenue,-19.293452,146.758706,2,https://translink.com.au/stop/890238/gtfs/,256.4627341,Townsville,4
+890183,890183,890183,Thuringowa Dr at Hinchinbrook Drive,-19.30849,146.73217,3,https://translink.com.au/stop/890183/gtfs/,34.365811,Townsville,1
+750304,750304,750304,Cattle St at Old Bruce Highway,-17.020741,145.744773,3,https://translink.com.au/stop/750304/gtfs/,70.97488766,Cairns,14
+750415,750415,750415,Riverstone Rd at Jacob Close,-17.102058,145.776848,4,https://translink.com.au/stop/750415/gtfs/,236.2265887,Cairns,0
+750045,750045,750045,Cheviot St at Leisure Pk Road (Smithfield SHS),-16.81515,145.69397,3,https://translink.com.au/stop/750045/gtfs/,179.3870616,Cairns,0
+890125,890125,890125,Primrose St at Marshall Street,-19.244332,146.798103,1,https://translink.com.au/stop/890125/gtfs/,79.896168,Townsville,2
+750368,750368,750368,Redlynch Shopping Centre (Larsen St),-16.894993,145.699505,2,https://translink.com.au/stop/750368/gtfs/,276.9908341,Cairns,12
+890467,890467,890467,Gollogy Lane at Mallee Street,-19.34017,146.723888,3,https://translink.com.au/stop/890467/gtfs/,276.0165623,Townsville,3
+750445,750445,750445,James Cook University bus station,-16.818238,145.690961,3,https://translink.com.au/stop/750445/gtfs/,55.20676738,Cairns,6
+750035,750035,750035,Clifton Road at Capt Cook Highway,-16.77121,145.674786,5,https://translink.com.au/stop/750035/gtfs/,22.14315891,Cairns,1
+750286,750286,750286,Hardy Rd at Malabar Street (Tom Murray Park),-17.000048,145.734397,2,https://translink.com.au/stop/750286/gtfs/,4.359928252,Cairns,1
+890318,890318,890318,Annandale Shopping Centre,-19.316645,146.79108,2,https://translink.com.au/stop/890318/gtfs/,176.3223609,Townsville,5
+750213,750213,750213,McGregor St at Wawan St,-16.926595,145.731901,1,https://translink.com.au/stop/750213/gtfs/,276.1752328,Cairns,3
+890078,890078,890078,Mt Louisa Drive at Banfield Drive,-19.274597,146.749075,2,https://translink.com.au/stop/890078/gtfs/,98.31366582,Townsville,4
+750539,750539,750539,Robert Rd near Herald St hail 'n' ride,-17.006567,145.730265,3,https://translink.com.au/stop/750539/gtfs/,215.8214969,Cairns,0
+750731,750731,750731,Stockland Earlville,-16.94456,145.738935,1,https://translink.com.au/stop/750731/gtfs/,196.6242053,Cairns,20
+890819,890819,890819,Waterway Dr at Yalbira Dr,-19.245507,146.701058,3,https://translink.com.au/stop/890819/gtfs/,77.89371257,Townsville,0
+890328,890328,890328,Yolanda Dr at Fardon Street,-19.314918,146.768391,2,https://translink.com.au/stop/890328/gtfs/,251.6802536,Townsville,2
+750250,750250,750250,Mulgrave Rd at Creedy St,-16.931332,145.757867,1,https://translink.com.au/stop/750250/gtfs/,202.8248861,Cairns,6
+890231,890231,890231,Fulham Rd at TAFE College,-19.288749,146.780511,1,https://translink.com.au/stop/890231/gtfs/,276.126725,Townsville,2
+890191,890191,890191,Primrose St at Rose Street,-19.243716,146.801399,1,https://translink.com.au/stop/890191/gtfs/,77.50517879,Townsville,2
+750281,750281,750281,Timberlea Dr at Walker Road,-17.0124,145.720417,3,https://translink.com.au/stop/750281/gtfs/,38.67806825,Cairns,0
+750026,750026,750026,Moresby St at Anderson Street,-16.791287,145.696453,4,https://translink.com.au/stop/750026/gtfs/,64.32371468,Cairns,5
+750329,750329,750329,Idalia Rd at Scotia Close,-16.999664,145.739348,2,https://translink.com.au/stop/750329/gtfs/,5.434192355,Cairns,0
+890432,890432,890432,Charters Towers Rd at Bayswater Terrace,-19.281476,146.798763,1,https://translink.com.au/stop/890432/gtfs/,20.96836969,Townsville,9
+890426,890426,890426,Queens Rd at Halloran Street,-19.289064,146.79804,1,https://translink.com.au/stop/890426/gtfs/,47.82264611,Townsville,9
+750169,750169,750169,Jensen St at Boden Street,-16.907372,145.733738,1,https://translink.com.au/stop/750169/gtfs/,5.127703643,Cairns,2
+890632,890632,890632,Charters Towers Rd at Hermit Park Shopping Centre,-19.278406,146.799683,1,https://translink.com.au/stop/890632/gtfs/,20.94461089,Townsville,8
+890028,890028,890028,Bayswater Rd at Kings Road,-19.276389,146.791676,1,https://translink.com.au/stop/890028/gtfs/,96.27143115,Townsville,5
+890224,890224,890224,Palmerston St at Park Street,-19.281712,146.789402,1,https://translink.com.au/stop/890224/gtfs/,96.12068327,Townsville,1
+750361,750361,750361,Gannet St near Newport Cl hail 'n' ride,-16.784631,145.678773,4,https://translink.com.au/stop/750361/gtfs/,230.9797518,Cairns,0
+750139,750139,750139,Sheridan St at James Street,-16.907618,145.760152,1,https://translink.com.au/stop/750139/gtfs/,146.4217821,Cairns,7
+750151,750151,750151,Old Smithfield Rd at Le Grande Street,-16.882252,145.712226,2,https://translink.com.au/stop/750151/gtfs/,305.7163965,Cairns,3
+750442,750442,750442,"Cairns City bus station, platform 1",-16.920742,145.77472,1,https://translink.com.au/stop/750442/gtfs/,140.9021321,Cairns,20
+890452,890452,890452,Malbon Rd at Emerald Street,-19.307436,146.738167,2,https://translink.com.au/stop/890452/gtfs/,245.6089748,Townsville,2
+750421,750421,750421,Fairview Street at Forno Park,-16.963404,145.730428,2,https://translink.com.au/stop/750421/gtfs/,185.4232014,Cairns,0
+750210,750210,750210,Balaclava Rd at Downing St,-16.944135,145.734131,1,https://translink.com.au/stop/750210/gtfs/,72.6223733,Cairns,9
+750168,750168,750168,Jensen St at Redwood Street,-16.909324,145.733116,1,https://translink.com.au/stop/750168/gtfs/,335.2375598,Cairns,2
+750301,750301,750301,Graham St at Jubilee St (John Walker Park),-17.023479,145.734379,3,https://translink.com.au/stop/750301/gtfs/,319.4710648,Cairns,1
+750325,750325,750325,Bicentennial Rd near McLaughlin Rd,-17.01069,145.73514,3,https://translink.com.au/stop/750325/gtfs/,185.5113481,Cairns,0
+890600,890600,890600,Jabiru Ave at Falcon Crescent,-19.334056,146.723152,3,https://translink.com.au/stop/890600/gtfs/,94.50517454,Townsville,0
+750079,750079,750079,Cairns Western Arterial at Harley Street,-16.879794,145.690026,2,https://translink.com.au/stop/750079/gtfs/,122.3215481,Cairns,0
+890442,890442,890442,Ross River Rd at The Cathedral School,-19.296002,146.778264,2,https://translink.com.au/stop/890442/gtfs/,258.7868377,Townsville,1
+891061,891061,891061,Kalynda Pde at Poinsettia Drive,-19.302888,146.691544,3,https://translink.com.au/stop/891061/gtfs/,206.5160418,Townsville,0
+750531,750531,750531,Toogood Rd near Windarra St hail 'n' ride,-16.956436,145.741108,2,https://translink.com.au/stop/750531/gtfs/,60.34299446,Cairns,0
+750081,750081,750081,Michaelangelo Dr at Jasmine Street,-16.904417,145.695363,2,https://translink.com.au/stop/750081/gtfs/,37.77401076,Cairns,0
+890366,890366,890366,Allen St at Nelson Street,-19.265487,146.830004,1,https://translink.com.au/stop/890366/gtfs/,116.0325226,Townsville,0
+750102,750102,750102,Aeroglen Dr at Palmerston Street,-16.885814,145.747682,1,https://translink.com.au/stop/750102/gtfs/,128.8872462,Cairns,1
+890217,890217,890217,Walker Street at Stanley St,-19.259259,146.814284,1,https://translink.com.au/stop/890217/gtfs/,218.5040796,Townsville,20
+890278,890278,890278,Fulham Rd at Pimlico High School,-19.288749,146.782421,1,https://translink.com.au/stop/890278/gtfs/,96.31631466,Townsville,1
+890297,890297,890297,Stuart Dr at Watt Street,-19.318502,146.81418,2,https://translink.com.au/stop/890297/gtfs/,323.8559869,Townsville,8
+890269,890269,890269,Charles St at Western Lions Park,-19.296867,146.750729,2,https://translink.com.au/stop/890269/gtfs/,225.162469,Townsville,0
+890423,890423,890423,Bowen Rd at Benson Street (CLOSED APRIL 2023),-19.297518,146.798095,1,https://translink.com.au/stop/890423/gtfs/,330.7378236,Townsville,7
+750646,750646,750646,Windarra St at Jean Close,-16.966199,145.741038,2,https://translink.com.au/stop/750646/gtfs/,328.4741013,Cairns,1
+890152,890152,890152,Nathan St at Alfred Street,-19.301099,146.76136,2,https://translink.com.au/stop/890152/gtfs/,6.184711481,Townsville,20
+750258,750258,750258,Toogood Rd at Agate St,-16.957809,145.734428,2,https://translink.com.au/stop/750258/gtfs/,77.72167783,Cairns,2
+750060,750060,750060,Sims Esp at Rutherford Street,-16.808318,145.725868,3,https://translink.com.au/stop/750060/gtfs/,334.9513229,Cairns,2
+750183,750183,750183,Murray St at Enmore St,-16.920266,145.734151,1,https://translink.com.au/stop/750183/gtfs/,274.7356525,Cairns,1
+890176,890176,890176,Riverside Bvd at Creekwood Way,-19.320727,146.748946,2,https://translink.com.au/stop/890176/gtfs/,87.94219734,Townsville,0
+890334,890334,890334,Palmerston St at Pegnall Street,-19.281448,146.787754,1,https://translink.com.au/stop/890334/gtfs/,276.1177788,Townsville,1
+750211,750211,750211,Lavender St at Holly Street,-16.937824,145.730404,1,https://translink.com.au/stop/750211/gtfs/,85.87763058,Cairns,0
+750320,750320,750320,Riverstone Rd at Moller Street,-17.097532,145.781396,4,https://translink.com.au/stop/750320/gtfs/,46.29203715,Cairns,0
+891060,891060,891060,Kalynda Pde at Periwinkle Way,-19.302569,146.691527,3,https://translink.com.au/stop/891060/gtfs/,29.85353493,Townsville,0
+890369,890369,890369,Boundary St at Twelfth Avenue,-19.270325,146.820566,1,https://translink.com.au/stop/890369/gtfs/,78.62225221,Townsville,2
+890447,890447,890447,Ross River Rd at Ignatius Park College,-19.300178,146.756131,2,https://translink.com.au/stop/890447/gtfs/,234.4639498,Townsville,1
+750038,750038,750038,Captain Cook Hwy at Alexandra Street,-16.758329,145.663264,5,https://translink.com.au/stop/750038/gtfs/,335.7432725,Cairns,0
+750036,750036,750036,Endeavour Road at Saxon Street,-16.762756,145.669799,5,https://translink.com.au/stop/750036/gtfs/,230.2674892,Cairns,6
+890422,890422,890422,Bowen Rd at Touch Street,-19.300523,146.799832,1,https://translink.com.au/stop/890422/gtfs/,331.2470913,Townsville,5
+890327,890327,890327,Yolanda Dr at Yolanda Drive Shops,-19.314195,146.772345,2,https://translink.com.au/stop/890327/gtfs/,261.1214353,Townsville,2
+890026,890026,890026,Bayswater Rd at Hugh Street,-19.275711,146.784443,1,https://translink.com.au/stop/890026/gtfs/,96.20255729,Townsville,1
+750099,750099,750099,Stratford Pde at Aeroglen Drive,-16.875005,145.736193,2,https://translink.com.au/stop/750099/gtfs/,268.3598343,Cairns,5
+890421,890421,890421,Bowen Rd at Viles Street,-19.301837,146.800598,2,https://translink.com.au/stop/890421/gtfs/,331.2574101,Townsville,3
+890685,890685,890685,Macarthur Dr at Morestone Street,-19.312495,146.786637,2,https://translink.com.au/stop/890685/gtfs/,96.25091505,Townsville,0
+890022,890022,890022,Bayswater Rd at Trevor Street,-19.274721,146.774738,1,https://translink.com.au/stop/890022/gtfs/,96.54466443,Townsville,7
+750093,750093,750093,Old Smithfield Rd at Cassowary Street,-16.878962,145.716577,2,https://translink.com.au/stop/750093/gtfs/,216.726762,Cairns,2
+750101,750101,750101,Aeroglen Dr at Whitfield Street,-16.88286,145.745763,1,https://translink.com.au/stop/750101/gtfs/,340.4516774,Cairns,1
+890572,890572,890572,Mount Low Parkway at Frendon Pde,-19.234226,146.667873,4,https://translink.com.au/stop/890572/gtfs/,37.33355614,Townsville,0
+890258,890258,890258,Golf Links Dr at Sonata Place,-19.30553,146.717371,3,https://translink.com.au/stop/890258/gtfs/,53.15032651,Townsville,1
+890601,890601,890601,Gouldian Ave at Lorikeet Street,-19.332138,146.725879,3,https://translink.com.au/stop/890601/gtfs/,279.9238354,Townsville,0
+750728,750728,750728,Smithfield Shopping Centre,-16.838391,145.692837,3,https://translink.com.au/stop/750728/gtfs/,5.341018499,Cairns,20
+890131,890131,890131,Morrell Street at Wackett St,-19.202841,146.771679,2,https://translink.com.au/stop/890131/gtfs/,265.9580527,Townsville,1
+750483,750483,750483,Mercurio Street at Giffin Road,-16.990964,145.746168,2,https://translink.com.au/stop/750483/gtfs/,3.304650118,Cairns,0
+890106,890106,890106,Mooney St at McDonald Street,-19.283956,146.771398,2,https://translink.com.au/stop/890106/gtfs/,183.2643426,Townsville,2
+890359,890359,890359,Yolanda Dr at Cypress Drive,-19.314085,146.774513,2,https://translink.com.au/stop/890359/gtfs/,276.8611494,Townsville,2
+890587,890587,890587,Geaney Lane at Hank Street,-19.249554,146.679769,3,https://translink.com.au/stop/890587/gtfs/,95.93330545,Townsville,8
+890196,890196,890196,The Strand at Gregory Street,-19.250745,146.81562,1,https://translink.com.au/stop/890196/gtfs/,137.127512,Townsville,20
+890296,890296,890296,Bowen Rd at Viles Street,-19.302513,146.801302,2,https://translink.com.au/stop/890296/gtfs/,332.0997252,Townsville,3
+890451,890451,890451,Ross River Rd at Forest Avenue,-19.313355,146.742988,2,https://translink.com.au/stop/890451/gtfs/,264.1459957,Townsville,3
+890584,890584,890584,Geaney Lane at Meranti St,-19.248875,146.672969,3,https://translink.com.au/stop/890584/gtfs/,275.9695276,Townsville,3
+750720,750720,750720,Farmer St at Barney Street,-17.030452,145.740025,3,https://translink.com.au/stop/750720/gtfs/,16.46756549,Cairns,0
+890045,890045,890045,Warburton St at Central State School,-19.25102,146.812484,1,https://translink.com.au/stop/890045/gtfs/,121.8864591,Townsville,20
+890478,890478,890478,Riverway Dr at Peter Street,-19.389129,146.730087,4,https://translink.com.au/stop/890478/gtfs/,9.672657168,Townsville,2
+890052,890052,890052,Bundock St at Howitt Street,-19.245108,146.80096,1,https://translink.com.au/stop/890052/gtfs/,281.373097,Townsville,3
+750005,750005,750005,Endeavour Rd at Elford Street,-16.763984,145.667889,5,https://translink.com.au/stop/750005/gtfs/,51.94370165,Cairns,6
+750067,750067,750067,Oleander St at Tamarind Street,-16.843537,145.739411,2,https://translink.com.au/stop/750067/gtfs/,186.1062676,Cairns,3
+890088,890088,890088,Fulham Rd at Vincent State School,-19.288435,146.764559,2,https://translink.com.au/stop/890088/gtfs/,123.1530396,Townsville,2
+890174,890174,890174,Riverside Bvd at White Beech Court,-19.319053,146.744054,2,https://translink.com.au/stop/890174/gtfs/,275.5038309,Townsville,0
+750307,750307,750307,Mt Peter Rd at Graham Street,-17.02675,145.737613,3,https://translink.com.au/stop/750307/gtfs/,36.70170613,Cairns,1
+750153,750153,750153,Kamerunga Road at Ryan Weare Park,-16.885218,145.705044,2,https://translink.com.au/stop/750153/gtfs/,240.6225254,Cairns,1
+890268,890268,890268,Charles St at Ellimatta Avenue,-19.298975,146.749104,2,https://translink.com.au/stop/890268/gtfs/,209.5067477,Townsville,0
+890688,890688,890688,Riverway Dr at Gouldian Avenue,-19.331792,146.727303,3,https://translink.com.au/stop/890688/gtfs/,7.16584788,Townsville,0
+890019,890019,890019,Bayswater Rd at Duckworth Street,-19.273035,146.76099,2,https://translink.com.au/stop/890019/gtfs/,96.02334742,Townsville,3
+890614,890614,890614,Ross River Rd at Killara Street,-19.303135,146.753144,2,https://translink.com.au/stop/890614/gtfs/,28.50137578,Townsville,0
+890475,890475,890475,Riverway Dr at Yut Fay Avenue,-19.376581,146.730356,4,https://translink.com.au/stop/890475/gtfs/,184.3930787,Townsville,0
+750136,750136,750136,Sheridan St at Grove Street,-16.913332,145.764469,1,https://translink.com.au/stop/750136/gtfs/,312.0242933,Cairns,15
+750011,750011,750011,Clifton Rd at Capt Cook Highway,-16.771944,145.674683,5,https://translink.com.au/stop/750011/gtfs/,22.14315891,Cairns,1
+750347,750347,750347,Reed Rd at Centaur Street,-16.804936,145.701851,3,https://translink.com.au/stop/750347/gtfs/,227.3879884,Cairns,1
+890042,890042,890042,Bundock St at Howitt Street,-19.244984,146.800158,1,https://translink.com.au/stop/890042/gtfs/,79.79808186,Townsville,2
+890126,890126,890126,Heatleys Pde at Soroptimist Park,-19.241399,146.79123,1,https://translink.com.au/stop/890126/gtfs/,131.8281787,Townsville,0
+750181,750181,750181,McManus St at Park Street,-16.908255,145.728463,1,https://translink.com.au/stop/750181/gtfs/,4.962472868,Cairns,2
+890233,890233,890233,Fulham Rd at Parson Street,-19.288165,146.774896,2,https://translink.com.au/stop/890233/gtfs/,276.1881942,Townsville,1
+750527,750527,750527,Mestrez St near Long St hail 'n' ride,-16.938785,145.736445,1,https://translink.com.au/stop/750527/gtfs/,6.40504258,Cairns,1
+750032,750032,750032,Gannet St at Coolangatta Close,-16.784719,145.678907,4,https://translink.com.au/stop/750032/gtfs/,230.9797518,Cairns,0
+750425,750425,750425,Tiffany St at Alabama Street,-16.987418,145.746885,2,https://translink.com.au/stop/750425/gtfs/,5.045721037,Cairns,0
+890039,890039,890039,Bundock St at Taylor Street,-19.248385,146.792399,1,https://translink.com.au/stop/890039/gtfs/,54.8403608,Townsville,1
+890396,890396,890396,Burnda St at Belmont Park Avenue,-19.300589,146.727892,3,https://translink.com.au/stop/890396/gtfs/,232.6472046,Townsville,2
+750640,750640,750640,Reservoir Road at Pease Street,-16.918218,145.738909,1,https://translink.com.au/stop/750640/gtfs/,289.5775289,Cairns,10
+750107,750107,750107,Sheridan St at McKenzie Street,-16.908558,145.761284,1,https://translink.com.au/stop/750107/gtfs/,107.2130791,Cairns,10
+890430,890430,890430,Queens Rd at Queens Road Rail Crossing,-19.277944,146.814739,1,https://translink.com.au/stop/890430/gtfs/,259.0779161,Townsville,1
+750657,750657,750657,Raintrees Shopping Centre Stop A,-16.925761,145.739957,1,https://translink.com.au/stop/750657/gtfs/,231.1636851,Cairns,7
+890251,890251,890251,Mill Dr at Mount View Park,-19.293701,146.741486,2,https://translink.com.au/stop/890251/gtfs/,280.3164979,Townsville,0
+890190,890190,890190,Primrose St at Rose Street,-19.24358,146.801331,1,https://translink.com.au/stop/890190/gtfs/,78.13700525,Townsville,2
+750344,750344,750344,Arlington Esp at Clifton Road (Clifton Beach),-16.767246,145.676809,5,https://translink.com.au/stop/750344/gtfs/,153.593151,Cairns,1
+890262,890262,890262,Bamford Lane at Brookhurst Avenue,-19.301021,146.741317,2,https://translink.com.au/stop/890262/gtfs/,185.5719503,Townsville,4
+890554,890554,890554,Mount Low Parkway at Ellendale St,-19.220057,146.669971,4,https://translink.com.au/stop/890554/gtfs/,183.2554317,Townsville,0
+890005,890005,890005,Fulham Rd at Heatley Park,-19.287374,146.756877,2,https://translink.com.au/stop/890005/gtfs/,109.2906837,Townsville,1
+890439,890439,890439,Ross River Rd at Briarfield Street,-19.295288,146.786998,2,https://translink.com.au/stop/890439/gtfs/,90.96013205,Townsville,2
+890891,890891,890891,Townsville City Stop A,-19.260936,146.816668,1,https://translink.com.au/stop/890891/gtfs/,38.44102072,Townsville,20
+750354,750354,750354,Moresby St near Saidor Cl hail 'n' ride,-16.79311,145.695096,4,https://translink.com.au/stop/750354/gtfs/,198.2428488,Cairns,5
+750649,750649,750649,Buchan St near Kenny St hail 'n' ride,-16.936873,145.767595,1,https://translink.com.au/stop/750649/gtfs/,139.3471824,Cairns,7
+750300,750300,750300,Hambledon Drive at Sugarworld Gardens,-17.022044,145.724957,3,https://translink.com.au/stop/750300/gtfs/,83.26548483,Cairns,3
+750302,750302,750302,Graham St at Mt Peter Rd,-17.026667,145.737207,3,https://translink.com.au/stop/750302/gtfs/,139.471059,Cairns,1
+890018,890018,890018,Bayswater Rd at Greg Jabs Drive,-19.272497,146.755842,2,https://translink.com.au/stop/890018/gtfs/,96.23303043,Townsville,4
+750007,750007,750007,Endeavour Rd at Upolu Esplanade,-16.761302,145.672832,5,https://translink.com.au/stop/750007/gtfs/,273.9501132,Cairns,0
+890195,890195,890195,The Strand at Strand Waterpark,-19.253095,146.818469,1,https://translink.com.au/stop/890195/gtfs/,303.2472585,Townsville,12
+750231,750231,750231,Hoare St at Kiernan Street,-16.92366,145.748024,1,https://translink.com.au/stop/750231/gtfs/,96.14703617,Cairns,2
+890242,890242,890242,Charles St at Western Lions Park,-19.297041,146.75069,2,https://translink.com.au/stop/890242/gtfs/,55.22505566,Townsville,0
+750157,750157,750157,Cairns Western Arterial at Ramsey Drive,-16.913251,145.722446,2,https://translink.com.au/stop/750157/gtfs/,99.53254316,Cairns,0
+890130,890130,890130,The Esplanade at Seaward Crescent,-19.206177,146.774581,2,https://translink.com.au/stop/890130/gtfs/,171.196374,Townsville,0
+750378,750378,750378,Piccones Shopping Village (Jensen St),-16.913769,145.739717,1,https://translink.com.au/stop/750378/gtfs/,93.28792999,Cairns,12
+890578,890578,890578,Macquarie St at Darling Rd,-19.246581,146.648714,4,https://translink.com.au/stop/890578/gtfs/,258.8048818,Townsville,0
+890362,890362,890362,Cypress Dr at Jonquil Crescent,-19.309347,146.780266,2,https://translink.com.au/stop/890362/gtfs/,47.29501038,Townsville,0
+750002,750002,750002,Veivers Road at Talpa Close,-16.74926,145.667899,5,https://translink.com.au/stop/750002/gtfs/,284.502335,Cairns,9
+890264,890264,890264,Charles St at Saderra Court,-19.304569,146.741899,2,https://translink.com.au/stop/890264/gtfs/,275.7942487,Townsville,4
+890465,890465,890465,South Vickers Rd at Thuringowa High,-19.336739,146.719419,3,https://translink.com.au/stop/890465/gtfs/,176.8540391,Townsville,0
+890367,890367,890367,Hubert St at Boundary Street,-19.268222,146.829428,1,https://translink.com.au/stop/890367/gtfs/,24.36543199,Townsville,0
+750305,750305,750305,Cattle St at Old Bruce Highway,-17.020988,145.744367,3,https://translink.com.au/stop/750305/gtfs/,250.9743126,Cairns,14
+890682,890682,890682,Stuart Dr at Lowe Street,-19.342936,146.83355,2,https://translink.com.au/stop/890682/gtfs/,161.1301232,Townsville,0
+890178,890178,890178,Riverside Bvd at Community Centre,-19.316531,146.753071,2,https://translink.com.au/stop/890178/gtfs/,253.1212267,Townsville,0
+890643,890643,890643,Oonoonba Rd at Oonoonba State School,-19.303081,146.813475,2,https://translink.com.au/stop/890643/gtfs/,57.50516569,Townsville,0
+890260,890260,890260,Bamford Lane at McBride Street,-19.295528,146.743095,2,https://translink.com.au/stop/890260/gtfs/,187.5376624,Townsville,0
+890340,890340,890340,Charters Towers Rd at Boundary Street,-19.273035,146.803437,1,https://translink.com.au/stop/890340/gtfs/,43.24506423,Townsville,2
+890606,890606,890606,Bamford Lane at Silky Oak Street,-19.310142,146.740397,2,https://translink.com.au/stop/890606/gtfs/,184.8452483,Townsville,3
+890307,890307,890307,Southwood Rd at Pretoria Street,-19.347254,146.847291,2,https://translink.com.au/stop/890307/gtfs/,96.21189625,Townsville,0
+890714,890714,890714,Village Drive at The Precinct,-19.30734,146.80642,2,https://translink.com.au/stop/890714/gtfs/,140.0069535,Townsville,13
+890114,890114,890114,Lockheed St at Lockheed Street,-19.257019,146.776835,1,https://translink.com.au/stop/890114/gtfs/,276.459179,Townsville,1
+890003,890003,890003,Fulham Rd at Vincent Shopping Centre,-19.288185,146.761811,2,https://translink.com.au/stop/890003/gtfs/,257.3506096,Townsville,2
+890079,890079,890079,Banfield Dr at Banora Court,-19.275116,146.749986,2,https://translink.com.au/stop/890079/gtfs/,5.886212469,Townsville,4
+750103,750103,750103,Sheridan St at Rutherford Street,-16.900082,145.756073,1,https://translink.com.au/stop/750103/gtfs/,336.5304709,Cairns,6
+750224,750224,750224,Aumuller St at Spence Street,-16.934795,145.76234,1,https://translink.com.au/stop/750224/gtfs/,140.7770202,Cairns,4
+890388,890388,890388,Stuart Dr at Edison Street,-19.320706,146.815786,2,https://translink.com.au/stop/890388/gtfs/,140.75464,Townsville,1
+890622,890622,890622,Ross River Rd at The Cathedral School,-19.295799,146.777924,2,https://translink.com.au/stop/890622/gtfs/,73.38566502,Townsville,1
+750288,750288,750288,Forest Gardens Bvd at Oakblue Drive,-16.983328,145.736817,2,https://translink.com.au/stop/750288/gtfs/,210.726999,Cairns,1
+890017,890017,890017,Bayswater Rd at Mather Street,-19.27164,146.748629,2,https://translink.com.au/stop/890017/gtfs/,102.9267262,Townsville,4
+890387,890387,890387,Stuart Dr at Marconi Street,-19.323742,146.818263,2,https://translink.com.au/stop/890387/gtfs/,141.0123686,Townsville,0
+890101,890101,890101,Angus Smith Dr at Tennant Street,-19.314931,146.761254,2,https://translink.com.au/stop/890101/gtfs/,39.48059831,Townsville,3
+890457,890457,890457,Riverway Dr at Gregory Street,-19.32348,146.727683,3,https://translink.com.au/stop/890457/gtfs/,181.0852454,Townsville,2
+750206,750206,750206,Anderson St at English Street,-16.916043,145.746126,1,https://translink.com.au/stop/750206/gtfs/,71.07999416,Cairns,8
+890099,890099,890099,JCU - Student Union Mall,-19.327664,146.755916,2,https://translink.com.au/stop/890099/gtfs/,210.1034337,Townsville,4
+750428,750428,750428,Progress Rd near Trinity Anglican School HnR,-16.979427,145.74403,2,https://translink.com.au/stop/750428/gtfs/,188.9351615,Cairns,3
+890235,890235,890235,Nathan St at Raynor Street,-19.295679,146.761652,2,https://translink.com.au/stop/890235/gtfs/,6.877286002,Townsville,20
+750068,750068,750068,Oleander St at Hickory St,-16.846644,145.739028,2,https://translink.com.au/stop/750068/gtfs/,6.590658927,Cairns,0
+890689,890689,890689,Veales Road at Joanne Street,-19.238462,146.653477,4,https://translink.com.au/stop/890689/gtfs/,6.04260716,Townsville,0
+890392,890392,890392,Mill Dr at Heatley State School,-19.293332,146.747381,2,https://translink.com.au/stop/890392/gtfs/,85.95840686,Townsville,0
+890449,890449,890449,Ross River Rd at Alice Street,-19.307418,146.750901,2,https://translink.com.au/stop/890449/gtfs/,224.5196205,Townsville,3
+750631,750631,750631,Draper St at Hartley St,-16.931431,145.772528,1,https://translink.com.au/stop/750631/gtfs/,320.9470122,Cairns,4
+890103,890103,890103,Fulham Rd at Lonsdale Street,-19.289249,146.767545,2,https://translink.com.au/stop/890103/gtfs/,250.7541241,Townsville,0
+750295,750295,750295,Robert Rd at Golden Grove Dr (Fretwell Park),-17.00413,145.738041,2,https://translink.com.au/stop/750295/gtfs/,270.6144981,Cairns,7
+890315,890315,890315,Wright Street at Stuart Drive,-19.325193,146.819113,2,https://translink.com.au/stop/890315/gtfs/,230.7305197,Townsville,0
+890085,890085,890085,Fulham Rd at Heatley Secondary College,-19.287235,146.754754,2,https://translink.com.au/stop/890085/gtfs/,246.8289686,Townsville,1
+750436,750436,750436,Walker Rd at Isabella State School,-17.017301,145.724295,3,https://translink.com.au/stop/750436/gtfs/,293.9631468,Cairns,2
+890435,890435,890435,Charters Towers Rd at Jameson Street,-19.288601,146.796865,1,https://translink.com.au/stop/890435/gtfs/,8.293722423,Townsville,10
+890182,890182,890182,Thuringowa Drive at Ridley Road,-19.312264,146.729712,3,https://translink.com.au/stop/890182/gtfs/,205.7531119,Townsville,4
+750075,750075,750075,Brinsmead Kamerunga Road at Skyrail Base Station,-16.848133,145.695279,3,https://translink.com.au/stop/750075/gtfs/,85.15635917,Cairns,0
+750289,750289,750289,Forest Gardens Bvd at Archer Close,-16.979901,145.737392,2,https://translink.com.au/stop/750289/gtfs/,50.28817325,Cairns,1
+890677,890677,890677,Mill Dr at Fulham Road,-19.293202,146.74805,2,https://translink.com.au/stop/890677/gtfs/,269.308951,Townsville,0
+890308,890308,890308,Southwood Rd at Mafeking Street,-19.346767,146.842432,2,https://translink.com.au/stop/890308/gtfs/,276.1987699,Townsville,0
+890186,890186,890186,Hugh St at Garbutt Shopping Centre,-19.265645,146.783224,1,https://translink.com.au/stop/890186/gtfs/,16.15187916,Townsville,6
+890057,890057,890057,Bundock St at William Street,-19.254039,146.788081,1,https://translink.com.au/stop/890057/gtfs/,192.3109468,Townsville,0
+750371,750371,750371,Kamerunga Road at Savina Park,-16.876682,145.722878,2,https://translink.com.au/stop/750371/gtfs/,265.2308818,Cairns,0
+890595,890595,890595,Gollogly Lane at Pinnacle Drive,-19.340436,146.725389,3,https://translink.com.au/stop/890595/gtfs/,276.0165623,Townsville,3
+890403,890403,890403,Annandale Dr at Indigo Crescent,-19.311135,146.784001,2,https://translink.com.au/stop/890403/gtfs/,357.1454462,Townsville,0
+890713,890713,890713,Village Drive at The Precinct,-19.30709,146.80603,2,https://translink.com.au/stop/890713/gtfs/,140.8268617,Townsville,13
+750402,750402,750402,Farmer St near Maren St hail 'n' ride,-17.033825,145.740096,3,https://translink.com.au/stop/750402/gtfs/,329.5382652,Cairns,0
+750645,750645,750645,Windarra St at Jean Close,-16.96644,145.74128,2,https://translink.com.au/stop/750645/gtfs/,335.703768,Cairns,1
+890607,890607,890607,Bamford Lane at Ferntree Street,-19.312,146.740228,2,https://translink.com.au/stop/890607/gtfs/,184.901795,Townsville,3
+750143,750143,750143,Sheridan St at Rutherford Street,-16.900146,145.755741,1,https://translink.com.au/stop/750143/gtfs/,336.0716753,Cairns,6
+890657,890657,890657,North Shore Bvd at Main Street,-19.255481,146.703252,3,https://translink.com.au/stop/890657/gtfs/,204.288905,Townsville,6
+750265,750265,750265,Toogood Rd at Tamba Street,-16.957884,145.733497,2,https://translink.com.au/stop/750265/gtfs/,257.664701,Cairns,2
+890631,890631,890631,Charters Towers Rd at Bayswater Terrace,-19.280967,146.798633,1,https://translink.com.au/stop/890631/gtfs/,21.82149216,Townsville,8
+890070,890070,890070,Bayswater Rd at Reardon Street,-19.275365,146.779789,1,https://translink.com.au/stop/890070/gtfs/,276.2060751,Townsville,1
+750441,750441,750441,"Cairns City bus station, platform 2",-16.920613,145.774441,1,https://translink.com.au/stop/750441/gtfs/,320.8979827,Cairns,20
+750236,750236,750236,Balaclava Rd at Yarrum St,-16.943455,145.735909,1,https://translink.com.au/stop/750236/gtfs/,252.4974989,Cairns,20
+750090,750090,750090,Lavis Rd at Valley Street,-16.881363,145.711122,2,https://translink.com.au/stop/750090/gtfs/,4.141000396,Cairns,3
+890093,890093,890093,Townsville University Hospital,-19.319583,146.7618,2,https://translink.com.au/stop/890093/gtfs/,270.2574014,Townsville,6
+750203,750203,750203,Anderson St at Chaplain Avenue (Cemetery),-16.913565,145.753406,1,https://translink.com.au/stop/750203/gtfs/,250.3548588,Cairns,3
+750054,750054,750054,Mt Milman Dr at Danbulan Street,-16.837279,145.695245,3,https://translink.com.au/stop/750054/gtfs/,190.7211398,Cairns,20
+891052,891052,891052,JCU - Student Union Mall,-19.327621,146.756223,2,https://translink.com.au/stop/891052/gtfs/,8.241706073,Townsville,4
+750091,750091,750091,Old Smithfield Rd at Le Grande St,-16.882164,145.712403,2,https://translink.com.au/stop/750091/gtfs/,305.7163965,Cairns,3
+890107,890107,890107,Mooney St at Tippett Street,-19.281898,146.77164,2,https://translink.com.au/stop/890107/gtfs/,6.562696695,Townsville,2
+890671,890671,890671,Edison St near Newton St hail 'n' ride,-19.325102,146.810631,2,https://translink.com.au/stop/890671/gtfs/,49.98988484,Townsville,2
+890060,890060,890060,Percy St at Cutheringa Park,-19.259138,146.786894,1,https://translink.com.au/stop/890060/gtfs/,196.0388855,Townsville,0
+890128,890128,890128,Cape Pallarenda Rd at Rowes Bay,-19.235208,146.78551,1,https://translink.com.au/stop/890128/gtfs/,2.387910126,Townsville,0
+750401,750401,750401,Wiseman Rd near Canecutter Rd Park hail 'n' ride,-17.025777,145.729863,3,https://translink.com.au/stop/750401/gtfs/,248.8708014,Cairns,1
+750333,750333,750333,Reservoir Rd at Enmore Street,-16.916812,145.733631,1,https://translink.com.au/stop/750333/gtfs/,282.399419,Cairns,1
+750209,750209,750209,Stockland Earlville,-16.944511,145.739043,1,https://translink.com.au/stop/750209/gtfs/,196.5893315,Cairns,20
+750108,750108,750108,Sheridan St at McKenzie Street,-16.910311,145.762581,1,https://translink.com.au/stop/750108/gtfs/,144.8275232,Cairns,18
+750244,750244,750244,Mulgrave Rd at Parramatta Park State School,-16.925179,145.7639,1,https://translink.com.au/stop/750244/gtfs/,50.77052256,Cairns,9
+750243,750243,750243,Mulgrave Rd at Collinson St,-16.928809,145.758711,1,https://translink.com.au/stop/750243/gtfs/,33.36947726,Cairns,8
+750031,750031,750031,Gannet St at Manly Close,-16.783177,145.682836,4,https://translink.com.au/stop/750031/gtfs/,61.42129094,Cairns,0
+890136,890136,890136,Lonerganne St at Ramsay Street,-19.263556,146.779263,1,https://translink.com.au/stop/890136/gtfs/,96.35695833,Townsville,3
+750283,750283,750283,Timberlea Dr at Dan Jones Street,-17.003354,145.720765,3,https://translink.com.au/stop/750283/gtfs/,83.84840429,Cairns,0
+750394,750394,750394,Robert Rd near Templar Cr hail 'n' ride,-17.010029,145.726395,3,https://translink.com.au/stop/750394/gtfs/,155.1756334,Cairns,0
+891054,891054,891054,"Townsville Shopping Centre, Elizabeth Street",-19.298033,146.76437,2,https://translink.com.au/stop/891054/gtfs/,346.7236894,Townsville,20
+890735,890735,890735,Greenview Dr at Thorn St,-19.288724,146.727959,2,https://translink.com.au/stop/890735/gtfs/,318.1256496,Townsville,0
+750214,750214,750214,Swallow St at Moody Street,-16.927381,145.734739,1,https://translink.com.au/stop/750214/gtfs/,315.6731275,Cairns,3
+750257,750257,750257,Toogood Rd at Nephrite St,-16.957093,145.738071,2,https://translink.com.au/stop/750257/gtfs/,258.2667638,Cairns,2
+750006,750006,750006,Endeavour Road at Haycock Street,-16.762734,145.66939,5,https://translink.com.au/stop/750006/gtfs/,230.2674892,Cairns,6
+890437,890437,890437,Ross River Rd at China Street,-19.294265,146.791165,1,https://translink.com.au/stop/890437/gtfs/,246.2862657,Townsville,7
+890659,890659,890659,Geaney Lane near Hank St hail 'n' ride,-19.249668,146.679481,3,https://translink.com.au/stop/890659/gtfs/,275.7834717,Townsville,8
+750094,750094,750094,Kamerunga Rd at Old Smithfield Road,-16.877293,145.716895,2,https://translink.com.au/stop/750094/gtfs/,20.3869537,Cairns,0
+890321,890321,890321,Annandale Dr at Boronia Drive,-19.308306,146.783468,2,https://translink.com.au/stop/890321/gtfs/,176.7162376,Townsville,0
+890599,890599,890599,Jabiru Ave at Jabiru Park,-19.333978,146.721242,3,https://translink.com.au/stop/890599/gtfs/,266.9544847,Townsville,0
+890259,890259,890259,Thuringowa Dr at Mill Drive,-19.293344,146.737721,2,https://translink.com.au/stop/890259/gtfs/,211.1187573,Townsville,0
+750219,750219,750219,Newton Street at Cairns TAFE,-16.922666,145.755999,1,https://translink.com.au/stop/750219/gtfs/,321.6948499,Cairns,2
+750328,750328,750328,Robert Rd at Golden Grove Drive,-17.004147,145.739428,2,https://translink.com.au/stop/750328/gtfs/,276.7390773,Cairns,9
+750313,750313,750313,Cairns Rd at George Street,-17.087525,145.783752,4,https://translink.com.au/stop/750313/gtfs/,288.6473393,Cairns,2
+890329,890329,890329,Yolanda Dr at Marabou Drive,-19.316175,146.765902,2,https://translink.com.au/stop/890329/gtfs/,232.7085716,Townsville,0
+890009,890009,890009,Banfield Dr at Pankina Street,-19.28078,146.750557,2,https://translink.com.au/stop/890009/gtfs/,159.3653257,Townsville,0
+750205,750205,750205,Anderson St at Hill St,-16.915067,145.749043,1,https://translink.com.au/stop/750205/gtfs/,85.84383172,Cairns,8
+890567,890567,890567,Mount Low Parkway at North Shore Bvd,-19.211058,146.670701,4,https://translink.com.au/stop/890567/gtfs/,1.503970135,Townsville,0
+750422,750422,750422,Toogood St at Panorama St,-16.95915,145.727981,2,https://translink.com.au/stop/750422/gtfs/,257.493745,Cairns,0
+890166,890166,890166,Riverside Bvd at Community Centre,-19.316641,146.752957,2,https://translink.com.au/stop/890166/gtfs/,93.45878719,Townsville,0
+750049,750049,750049,Gavin St at Stanton Street,-16.831029,145.690256,3,https://translink.com.au/stop/750049/gtfs/,6.473167382,Cairns,4
+890240,890240,890240,Charles St at Cordelia Avenue,-19.295045,146.753669,2,https://translink.com.au/stop/890240/gtfs/,55.47134106,Townsville,0
+750167,750167,750167,Jensen St at Brooks St,-16.910702,145.733502,1,https://translink.com.au/stop/750167/gtfs/,347.3465044,Cairns,2
+890225,890225,890225,Park St at Gladstone Street,-19.283181,146.789047,1,https://translink.com.au/stop/890225/gtfs/,185.9271055,Townsville,1
+750069,750069,750069,Holloway Beach Rd at Moonah St,-16.851422,145.736117,2,https://translink.com.au/stop/750069/gtfs/,95.02895821,Cairns,1
+890414,890414,890414,Boundary St at Twelfth Avenue,-19.270088,146.820457,1,https://translink.com.au/stop/890414/gtfs/,78.62225221,Townsville,2
+750492,750492,750492,Veivers Rd near Williams Esp hail 'n' ride,-16.749557,145.670262,5,https://translink.com.au/stop/750492/gtfs/,265.4549499,Cairns,11
+890142,890142,890142,Lockheed St at Meenan Street,-19.257078,146.776812,1,https://translink.com.au/stop/890142/gtfs/,96.46003862,Townsville,1
+750027,750027,750027,Trinity Beach Rd at Rabaul Street,-16.790322,145.69182,4,https://translink.com.au/stop/750027/gtfs/,51.44422058,Cairns,5
+890105,890105,890105,Mooney St at Sheffield Street,-19.286087,146.771124,2,https://translink.com.au/stop/890105/gtfs/,6.68150447,Townsville,2
+890090,890090,890090,Ross River Rd at Anne Street,-19.2972,146.767175,2,https://translink.com.au/stop/890090/gtfs/,256.0310974,Townsville,20
+890289,890289,890289,Queens Rd at Bicentennial Park,-19.282911,146.805474,1,https://translink.com.au/stop/890289/gtfs/,227.6606575,Townsville,0
+750062,750062,750062,Varley St at Daisy Street,-16.811202,145.721042,3,https://translink.com.au/stop/750062/gtfs/,186.7229544,Cairns,6
+890129,890129,890129,Cape Pallarenda Rd at Garden Settlement,-19.216419,146.776247,2,https://translink.com.au/stop/890129/gtfs/,345.5247654,Townsville,0
+890625,890625,890625,Ross River Rd at Mundingburra State School,-19.295074,146.788176,1,https://translink.com.au/stop/890625/gtfs/,76.89935098,Townsville,2
+890265,890265,890265,Charles St at Sabadell Street,-19.304774,146.744257,2,https://translink.com.au/stop/890265/gtfs/,274.4134536,Townsville,4
+750377,750377,750377,Piccones Shopping Village (Jensen St),-16.913825,145.739705,1,https://translink.com.au/stop/750377/gtfs/,278.6092213,Cairns,12
+890412,890412,890412,Putt St at Tenth Avenue,-19.277944,146.818079,1,https://translink.com.au/stop/890412/gtfs/,89.13906068,Townsville,1
+890320,890320,890320,Annandale Dr at Indigo Crescent,-19.31114,146.783865,2,https://translink.com.au/stop/890320/gtfs/,357.1454462,Townsville,0
+890277,890277,890277,Fulham Rd at TAFE College,-19.288579,146.780745,1,https://translink.com.au/stop/890277/gtfs/,96.57111621,Townsville,2
+750501,750501,750501,Gavin St near Stanton Rd hail 'n' ride,-16.831029,145.69017,3,https://translink.com.au/stop/750501/gtfs/,6.473167382,Cairns,4
+750020,750020,750020,Anderson St at Lae Street,-16.789012,145.696319,4,https://translink.com.au/stop/750020/gtfs/,158.8228042,Cairns,7
+890352,890352,890352,Palmerston St at McDougall Street,-19.280634,146.778913,1,https://translink.com.au/stop/890352/gtfs/,276.8939085,Townsville,0
+750467,750467,750467,Mestrez St at Long Street,-16.938719,145.736556,1,https://translink.com.au/stop/750467/gtfs/,6.40504258,Cairns,1
+750109,750109,750109,Sheridan St at Charles St,-16.912504,145.764187,1,https://translink.com.au/stop/750109/gtfs/,136.9351586,Cairns,15
+750077,750077,750077,Impey St at Lake Placid Road,-16.871093,145.680893,3,https://translink.com.au/stop/750077/gtfs/,9.067977503,Cairns,1
+750386,750386,750386,Greenslopes St near MacNamara St hail 'n' ride,-16.904153,145.751863,1,https://translink.com.au/stop/750386/gtfs/,275.1036333,Cairns,3
+750414,750414,750414,Dempsey St near Hooper Cl hail 'n' ride,-17.104039,145.77198,4,https://translink.com.au/stop/750414/gtfs/,185.987678,Cairns,0
+890149,890149,890149,Mooney St at Tyrrell Street,-19.286158,146.771298,2,https://translink.com.au/stop/890149/gtfs/,186.6814676,Townsville,2
+890092,890092,890092,Townsville University Hospital,-19.319812,146.762429,2,https://translink.com.au/stop/890092/gtfs/,90.00002465,Townsville,6
+750266,750266,750266,Toogood Rd at Erang Street,-16.956319,145.741018,2,https://translink.com.au/stop/750266/gtfs/,44.46846905,Cairns,0
+890004,890004,890004,Fulham Rd at St James Village,-19.288274,146.759703,2,https://translink.com.au/stop/890004/gtfs/,286.7516388,Townsville,2
+890245,890245,890245,Charles St at Tapiolas Avenue,-19.303778,146.746381,2,https://translink.com.au/stop/890245/gtfs/,226.7175805,Townsville,0
+750316,750316,750316,Fisher Rd at Creswell Close,-17.094747,145.771373,4,https://translink.com.au/stop/750316/gtfs/,168.9884835,Cairns,0
+890410,890410,890410,Doorey St at Thirteenth Avenue,-19.280025,146.82037,1,https://translink.com.au/stop/890410/gtfs/,88.27693239,Townsville,0
+890337,890337,890337,Bayswater Rd at St Margaret Mary's College,-19.27716,146.798824,1,https://translink.com.au/stop/890337/gtfs/,96.58725571,Townsville,8
+890012,890012,890012,Banfield Dr at Banora Court,-19.274978,146.749891,2,https://translink.com.au/stop/890012/gtfs/,5.886212469,Townsville,4
+890030,890030,890030,Kings Rd at Showgrounds,-19.269363,146.79282,1,https://translink.com.au/stop/890030/gtfs/,190.4077489,Townsville,9
+890189,890189,890189,Primrose St at Marshall Street,-19.24419,146.798058,1,https://translink.com.au/stop/890189/gtfs/,78.79294514,Townsville,2
+890239,890239,890239,Charles St at Lindeman Avenue,-19.294177,146.755585,2,https://translink.com.au/stop/890239/gtfs/,67.43418767,Townsville,1
+750260,750260,750260,Anderson Rd at Windarra St (Coconut Village),-16.967751,145.743672,2,https://translink.com.au/stop/750260/gtfs/,275.5050404,Cairns,1
+890444,890444,890444,Ross River Rd at Charlotte Street,-19.296402,146.770645,2,https://translink.com.au/stop/890444/gtfs/,256.7925002,Townsville,9
+890069,890069,890069,Bayswater Rd at Hugh Street,-19.275841,146.784451,1,https://translink.com.au/stop/890069/gtfs/,276.2752277,Townsville,0
+750242,750242,750242,Mulgrave Rd at Creedy Street,-16.931008,145.757515,1,https://translink.com.au/stop/750242/gtfs/,202.3604834,Cairns,6
+750348,750348,750348,Reed Rd at Debbie Street,-16.801699,145.705945,3,https://translink.com.au/stop/750348/gtfs/,230.7345953,Cairns,1
+890266,890266,890266,Charles St at Tapiolas Avenue,-19.30366,146.746287,2,https://translink.com.au/stop/890266/gtfs/,46.71817634,Townsville,0
+890590,890590,890590,Riverway Dr at Bluewattle Boulevard,-19.357536,146.73236,3,https://translink.com.au/stop/890590/gtfs/,355.5716106,Townsville,1
+750095,750095,750095,Kamerunga Rd at Passchendaele St,-16.876398,145.72355,2,https://translink.com.au/stop/750095/gtfs/,265.9073925,Cairns,0
+750172,750172,750172,Woodward St at Pease Street,-16.901316,145.741827,1,https://translink.com.au/stop/750172/gtfs/,118.9145213,Cairns,9
+890155,890155,890155,Angus Smith Dr at Tennant Street,-19.314987,146.76171,2,https://translink.com.au/stop/890155/gtfs/,219.2920182,Townsville,3
+890132,890132,890132,Wackett Street at Shelley Street,-19.200432,146.771128,2,https://translink.com.au/stop/890132/gtfs/,356.0727141,Townsville,1
+750160,750160,750160,McManus St at Hodel Street,-16.904375,145.728636,1,https://translink.com.au/stop/750160/gtfs/,5.497934543,Cairns,0
+750174,750174,750174,Woodward St at Clemson Ave,-16.901009,145.738115,1,https://translink.com.au/stop/750174/gtfs/,95.12693323,Cairns,2
+890021,890021,890021,Bayswater Rd at Quandong Street,-19.274533,146.77315,1,https://translink.com.au/stop/890021/gtfs/,96.03835325,Townsville,7
+750146,750146,750146,Greenslopes Street at McCormack Street,-16.903384,145.746311,1,https://translink.com.au/stop/750146/gtfs/,95.50636531,Cairns,9
+890144,890144,890144,Meenan St at Dearness Street,-19.259407,146.775372,1,https://translink.com.au/stop/890144/gtfs/,186.6071866,Townsville,1
+750142,750142,750142,Sheridan St Cairns North,-16.902089,145.756629,1,https://translink.com.au/stop/750142/gtfs/,156.8399433,Cairns,8
+750654,750654,750654,Fretwell Rd at Progress Road,-16.994597,145.743918,2,https://translink.com.au/stop/750654/gtfs/,95.19458332,Cairns,0
+890173,890173,890173,Riverside Bvd at Rivergreen Circuit,-19.317543,146.74133,2,https://translink.com.au/stop/890173/gtfs/,129.2585652,Townsville,2
+890627,890627,890627,Ross River Rd at Rising Sun Shopping Centre,-19.291632,146.795025,1,https://translink.com.au/stop/890627/gtfs/,40.08075146,Townsville,9
+890640,890640,890640,Bayswater Rd at Mooney Street,-19.274704,146.773187,1,https://translink.com.au/stop/890640/gtfs/,275.2310461,Townsville,7
+890236,890236,890236,Nathan St at Arunta Street,-19.293636,146.76187,2,https://translink.com.au/stop/890236/gtfs/,6.369546447,Townsville,6
+890241,890241,890241,Charles St at Fitzroy Street,-19.296069,146.752136,2,https://translink.com.au/stop/890241/gtfs/,235.3018969,Townsville,0
+750148,750148,750148,Aeroglen Dr at Palmerston Street,-16.885749,145.747548,1,https://translink.com.au/stop/750148/gtfs/,128.8872462,Cairns,1
+750013,750013,750013,Cottesloe Dr at Daytona St (Kewarra Beach),-16.790693,145.680651,4,https://translink.com.au/stop/750013/gtfs/,141.6152362,Cairns,3
+890058,890058,890058,Bundock St at Stagpole Street,-19.255636,146.787762,1,https://translink.com.au/stop/890058/gtfs/,189.8529331,Townsville,0
+750053,750053,750053,Smithfield Shopping Centre (Cattana Rd),-16.834852,145.692217,3,https://translink.com.au/stop/750053/gtfs/,304.1524781,Cairns,20
+750050,750050,750050,Stanton Rd at Survey Street,-16.831522,145.691298,3,https://translink.com.au/stop/750050/gtfs/,273.3230376,Cairns,4
+750638,750638,750638,Captain Cook Highway at Clifton Road,-16.772802,145.674215,5,https://translink.com.au/stop/750638/gtfs/,328.8124816,Cairns,0
+750248,750248,750248,Mulgrave Rd at Gregory Street,-16.927034,145.762002,1,https://translink.com.au/stop/750248/gtfs/,235.4339343,Cairns,8
+890581,890581,890581,Jensen Rd at Geaney Lane,-19.251324,146.655289,4,https://translink.com.au/stop/890581/gtfs/,90.52423494,Townsville,0
+890249,890249,890249,Bamford Lane at Brookhurst Avenue,-19.301131,146.741019,2,https://translink.com.au/stop/890249/gtfs/,6.227556355,Townsville,4
+890402,890402,890402,Mill Drive at Joyce Street,-19.293706,146.744471,2,https://translink.com.au/stop/890402/gtfs/,79.12879664,Townsville,0
+890914,890914,890914,Mount Low Pwy at Bushland Beach Plaza,-19.19969,146.674054,4,https://translink.com.au/stop/890914/gtfs/,11.31155012,Townsville,3
+750262,750262,750262,Anderson Rd at Shannon Dr,-16.966688,145.731856,2,https://translink.com.au/stop/750262/gtfs/,275.5659327,Cairns,0
+890623,890623,890623,Ross River Rd at Gulliver Street,-19.2951,146.781786,2,https://translink.com.au/stop/890623/gtfs/,86.06344903,Townsville,0
+890291,890291,890291,Queens Rd at Halloran Street,-19.289217,146.798097,1,https://translink.com.au/stop/890291/gtfs/,47.82264611,Townsville,10
+750261,750261,750261,Windarra St at Noela Close,-16.964056,145.739866,2,https://translink.com.au/stop/750261/gtfs/,7.491170368,Cairns,1
+890313,890313,890313,Stuart Dr at Culgoa Street,-19.328257,146.822147,2,https://translink.com.au/stop/890313/gtfs/,320.7766131,Townsville,0
+890436,890436,890436,Ross River Rd at Mabin Street,-19.293683,146.79261,1,https://translink.com.au/stop/890436/gtfs/,246.2862657,Townsville,10
+890322,890322,890322,Cypress Dr at Annandale Drive,-19.307743,146.782545,2,https://translink.com.au/stop/890322/gtfs/,258.283451,Townsville,0
+750366,750366,750366,Lake Placid Road near Brinsmead Kamerunga Rd,-16.869804,145.6849,3,https://translink.com.au/stop/750366/gtfs/,221.9283641,Cairns,1
+890675,890675,890675,Riverway Dr at Illuta Street,-19.348573,146.729902,3,https://translink.com.au/stop/890675/gtfs/,152.6811817,Townsville,0
+750652,750652,750652,Kenny St near Owen Cl hail 'n' ride,-16.934361,145.771662,1,https://translink.com.au/stop/750652/gtfs/,231.3442376,Cairns,4
+890244,890244,890244,Charles St at Lerida Street,-19.301507,146.747737,2,https://translink.com.au/stop/890244/gtfs/,30.5892443,Townsville,0
+750017,750017,750017,Trinity Beach Rd at Periwinkle Avenue,-16.79049,145.690847,4,https://translink.com.au/stop/750017/gtfs/,63.36139642,Cairns,5
+750003,750003,750003,Veivers Road at Capt Cook Highway,-16.748213,145.663659,5,https://translink.com.au/stop/750003/gtfs/,104.750279,Cairns,0
+890037,890037,890037,Bundock St at Old Common Road,-19.250344,146.78949,1,https://translink.com.au/stop/890037/gtfs/,53.8195275,Townsville,1
+750363,750363,750363,Lydia St near Dennison St hail 'n' ride,-16.824363,145.686456,3,https://translink.com.au/stop/750363/gtfs/,1.16563437,Cairns,0
+890336,890336,890336,Bayswater Rd at Sussex Street,-19.276961,146.796985,1,https://translink.com.au/stop/890336/gtfs/,96.31925601,Townsville,8
+891065,891065,891065,Greater Ascot Ave at Central Park,-19.282095,146.703921,3,https://translink.com.au/stop/891065/gtfs/,124.0257099,Townsville,0
+890560,890560,890560,Coutts Dr at Mostyn Crescent,-19.189667,146.670455,4,https://translink.com.au/stop/890560/gtfs/,117.8896245,Townsville,0
+750315,750315,750315,Riverstone Rd at Swan Street,-17.097526,145.781742,4,https://translink.com.au/stop/750315/gtfs/,226.291694,Cairns,0
+890151,890151,890151,Fulham Rd at Lonsdale Street,-19.289495,146.767433,2,https://translink.com.au/stop/890151/gtfs/,70.75436461,Townsville,0
+890424,890424,890424,Bowen Rd at Sweet Street,-19.295972,146.79721,1,https://translink.com.au/stop/890424/gtfs/,332.5369543,Townsville,10
+890571,890571,890571,Mount Low Parkway at Equardo Road,-19.230888,146.67011,4,https://translink.com.au/stop/890571/gtfs/,198.9288808,Townsville,0
+750528,750528,750528,Grevillea St near Pepperina St hail 'n' ride,-16.936394,145.734122,1,https://translink.com.au/stop/750528/gtfs/,111.31098,Cairns,0
+890629,890629,890629,Charters Towers Rd at Townsend Street,-19.285869,146.796993,1,https://translink.com.au/stop/890629/gtfs/,8.761940464,Townsville,6
+750010,750010,750010,Clifton Road at Guide Street,-16.769045,145.67549,5,https://translink.com.au/stop/750010/gtfs/,23.82256435,Cairns,1
+750353,750353,750353,Madang St near Rabaul St hail 'n' ride,-16.793742,145.692766,4,https://translink.com.au/stop/750353/gtfs/,268.5860009,Cairns,5
+750025,750025,750025,Moresby St at Saidor Close,-16.79308,145.695058,4,https://translink.com.au/stop/750025/gtfs/,198.2428488,Cairns,5
+890010,890010,890010,Banfield Dr at High Vista Drive,-19.279058,146.749577,2,https://translink.com.au/stop/890010/gtfs/,167.014491,Townsville,0
+750314,750314,750314,Norman St at Gordon Street (Gordonvale),-17.091779,145.786494,4,https://translink.com.au/stop/750314/gtfs/,186.7423255,Cairns,5
+890301,890301,890301,Stuart Dr at Stuart Hotel,-19.331479,146.825296,2,https://translink.com.au/stop/890301/gtfs/,322.3271927,Townsville,2
+890565,890565,890565,Marina Drive at Bunya St,-19.196709,146.680139,4,https://translink.com.au/stop/890565/gtfs/,210.8838877,Townsville,0
+890897,890897,890897,Ninth Ave at Anzac Lane,-19.274996,146.816657,1,https://translink.com.au/stop/890897/gtfs/,358.4077416,Townsville,1
+890215,890215,890215,Palmer Street at Dibbs St,-19.260276,146.820806,1,https://translink.com.au/stop/890215/gtfs/,73.57939939,Townsville,20
+750704,750704,750704,McGregor Rd at Smithfield Village Dr,-16.822005,145.701227,3,https://translink.com.au/stop/750704/gtfs/,263.6588167,Cairns,0
+890476,890476,890476,Riverway Dr at Hammond Way,-19.380965,146.730594,4,https://translink.com.au/stop/890476/gtfs/,168.9276383,Townsville,3
+750294,750294,750294,Idalia Rd at Scotia Close,-16.999521,145.739406,2,https://translink.com.au/stop/750294/gtfs/,346.4339488,Cairns,0
+750331,750331,750331,Des Chalmers Drive at Rigg Street,-16.957438,145.746908,2,https://translink.com.au/stop/750331/gtfs/,1.237176584,Cairns,1
+750147,750147,750147,Greenslopes St at Centenary Lakes,-16.903847,145.751847,1,https://translink.com.au/stop/750147/gtfs/,274.4155872,Cairns,3
+890171,890171,890171,Riverside Bvd at Freshwater Drive,-19.318808,146.73841,2,https://translink.com.au/stop/890171/gtfs/,325.5889499,Townsville,2
+890314,890314,890314,Stuart Dr at Royal Street,-19.326565,146.820793,2,https://translink.com.au/stop/890314/gtfs/,321.1766517,Townsville,0
+890255,890255,890255,Thuringowa Dr at Ridley Road,-19.311888,146.7302,3,https://translink.com.au/stop/890255/gtfs/,19.62686224,Townsville,2
+750413,750413,750413,Fisher Rd near Creswell Cl hail 'n' ride,-17.094775,145.77123,4,https://translink.com.au/stop/750413/gtfs/,348.988428,Cairns,0
+750269,750269,750269,Progress Rd at Dillon Close (White Rock SS),-16.987582,145.743111,2,https://translink.com.au/stop/750269/gtfs/,12.03600175,Cairns,9
+890446,890446,890446,Ross River Rd at Cranbrae Village,-19.299014,146.758517,2,https://translink.com.au/stop/890446/gtfs/,254.7774761,Townsville,20
+890404,890404,890404,Macarthur Dr at Wave Hill Drive,-19.314584,146.790855,2,https://translink.com.au/stop/890404/gtfs/,288.9278882,Townsville,5
+750229,750229,750229,Mann St at Vivian St,-16.930085,145.753028,1,https://translink.com.au/stop/750229/gtfs/,50.6713575,Cairns,7
+750098,750098,750098,Kamerunga Rd at Stratford Parade,-16.875346,145.732697,2,https://translink.com.au/stop/750098/gtfs/,266.6298672,Cairns,5
+890712,890712,890712,Dean Street at Palmer Street,-19.2611,146.8192,1,https://translink.com.au/stop/890712/gtfs/,163.9193975,Townsville,20
+890243,890243,890243,Charles St at Ellimatta Avenue,-19.299084,146.749188,2,https://translink.com.au/stop/890243/gtfs/,29.50706634,Townsville,0
+750397,750397,750397,Timberlea Rd near Walker Rd hail 'n' ride,-17.0125,145.72048,3,https://translink.com.au/stop/750397/gtfs/,219.882677,Cairns,0
+750087,750087,750087,Brinsmead Kamerunga Rd (Redlynch Railway Station),-16.887167,145.696567,2,https://translink.com.au/stop/750087/gtfs/,241.5770928,Cairns,1
+890261,890261,890261,Bamford Lane at Birrahlee Crescent,-19.297644,146.742013,2,https://translink.com.au/stop/890261/gtfs/,207.9191265,Townsville,0
+750275,750275,750275,Skull Rd at Kowinka St,-16.971133,145.748546,2,https://translink.com.au/stop/750275/gtfs/,95.93971089,Cairns,0
+750384,750384,750384,Greenslopes St near Crathern Cl hail 'n' ride,-16.903319,145.742738,1,https://translink.com.au/stop/750384/gtfs/,95.25809458,Cairns,10
+890384,890384,890384,Wright St at Haldane Street,-19.327592,146.81398,2,https://translink.com.au/stop/890384/gtfs/,85.92581837,Townsville,1
+890250,890250,890250,Bamford Lane at McBride Street,-19.295459,146.742851,2,https://translink.com.au/stop/890250/gtfs/,8.190560784,Townsville,0
+750330,750330,750330,Charlotte Cl at Service Road,-16.961979,145.746516,2,https://translink.com.au/stop/750330/gtfs/,4.985919787,Cairns,7
+750141,750141,750141,Sheridan St at Lily St (Tobruk Pool),-16.903806,145.757597,1,https://translink.com.au/stop/750141/gtfs/,144.6033958,Cairns,9
+890497,890497,890497,Riverway Dr at Allambie Lane,-19.364809,146.731734,3,https://translink.com.au/stop/890497/gtfs/,0.821294097,Townsville,9
+750180,750180,750180,McManus St at Hodel St,-16.903675,145.728899,1,https://translink.com.au/stop/750180/gtfs/,5.497934543,Cairns,0
+750190,750190,750190,Anderson St at Mayers Street,-16.916387,145.743623,1,https://translink.com.au/stop/750190/gtfs/,266.2531359,Cairns,16
+890683,890683,890683,Lakeside Dr at Fairfield Central Shopping Centre,-19.315653,146.81813,2,https://translink.com.au/stop/890683/gtfs/,183.8063196,Townsville,14
+750420,750420,750420,Windarra St near Tracey Cl hail 'n' ride,-16.96406,145.739986,2,https://translink.com.au/stop/750420/gtfs/,5.756408715,Cairns,1
+750332,750332,750332,Mulgrave Rd at Toogood Rd,-16.950302,145.74243,1,https://translink.com.au/stop/750332/gtfs/,130.8088093,Cairns,3
+750000,750000,750000,Cedar Rd at Coral Coast Drive (Palm Cove),-16.743585,145.668207,5,https://translink.com.au/stop/750000/gtfs/,51.24932836,Cairns,17
+891053,891053,891053,Riverway Dr at Dunlop Street,-19.393389,146.729177,4,https://translink.com.au/stop/891053/gtfs/,6.25762104,Townsville,0
+890102,890102,890102,Nathan St at Leopold Street,-19.304275,146.760682,2,https://translink.com.au/stop/890102/gtfs/,186.7524414,Townsville,7
+890577,890577,890577,Macquarie St near Veales Rd,-19.245874,146.652202,4,https://translink.com.au/stop/890577/gtfs/,258.8048818,Townsville,0
+890059,890059,890059,Bundock St at Harold Street,-19.257243,146.787472,1,https://translink.com.au/stop/890059/gtfs/,190.6865265,Townsville,0
+890346,890346,890346,Flinders St at Townsville Railway Station,-19.268714,146.806824,1,https://translink.com.au/stop/890346/gtfs/,227.8935099,Townsville,2
+750191,750191,750191,Anderson St at English Street,-16.915553,145.746085,1,https://translink.com.au/stop/750191/gtfs/,70.79344682,Cairns,8
+750398,750398,750398,Walker Rd at Sugarworld,-17.018709,145.728422,3,https://translink.com.au/stop/750398/gtfs/,111.2316492,Cairns,3
